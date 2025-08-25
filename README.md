@@ -36,7 +36,7 @@ HTML report (professional format for submissions)
 # 🚀 Getting Started
 🔹 Clone the Repository
 ```
-git clone https://github.com/yourusername/BugBountyGUI.git
+git clone https://github.com/Khani-Kingsman/Code_Alpha_Task_3.git
 cd BugBountyGUI
 ```
 🔹 Install Requirements
