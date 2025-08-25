@@ -85,3 +85,5 @@ Advanced reporting (CVSS, severity scoring)
 Contributions make this tool better for the community 🚀
 
 🔥 With BugBountyGUI, you can quickly demonstrate vulnerabilities in labs, CTFs, and beginner bug bounty research — all with a clean GUI and exportable reports.
+### If you need any support 
+### Join Our discord Server https://discord.gg/kNY5Aubj
