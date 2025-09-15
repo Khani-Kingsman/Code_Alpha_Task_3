@@ -36,7 +36,7 @@ HTML report (professional format for submissions)
 # 🚀 Getting Started
 🔹 Clone the Repository
 ```
-git clone https://github.com/Khani-Kingsman/Code_Alpha_Task_3.git
+git clone https://github.com/Khani-Kingsman/Bug_Bount.git
 cd BugBountyGUI
 ```
 🔹 Install Requirements
@@ -86,4 +86,4 @@ Contributions make this tool better for the community 🚀
 
 🔥 With BugBountyGUI, you can quickly demonstrate vulnerabilities in labs, CTFs, and beginner bug bounty research — all with a clean GUI and exportable reports.
 ### If you need any support 
-### Join Our discord Server https://discord.gg/kNY5Aubj
+### Join me on discord https://discord.com/users/935570270855512084
